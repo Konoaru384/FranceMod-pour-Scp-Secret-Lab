@@ -1,0 +1,20 @@
+Suivi des utilisateurs côté serveur  
+Autoriser  
+Refuser (DNT)  
+Si refusé, empêche les serveurs vérifiés d'utiliser vos données (adresse IP, ID utilisateur, etc.) à des fins non liées à la sécurité du serveur. Certaines fonctionnalités spécifiques au serveur (comme les classements, les systèmes de niveaux, etc.) ne fonctionneront pas correctement.  
+Présence active  
+Permet aux plateformes (Steam et Discord) d'afficher plus d'informations sur votre état de jeu actuel.  
+Visibilité de la lobby Steam  
+Définit comment les autres utilisateurs peuvent rejoindre le serveur via votre profil Steam.  
+Paramètres de confidentialité du chat vocal  
+Profil dans la liste des joueurs  
+Permet aux joueurs de voir leur profil Steam en cliquant sur une icône dans la liste des joueurs à l'intérieur du jeu.  
+Afficher  
+Masquer  
+Sur invitation seulement  
+Public  
+Les modifications prendront effet la prochaine fois que vous vous connectez à un serveur (ou au redémarrage du round)  
+Amis seulement  
+Confidentialité  
+Préférence de génération d'SCP  
+Les préférences de spawn sont utilisées pour améliorer l'attribution automatique des SCP entre les coéquipiers. Veuillez noter que cela n'affecte pas vos chances de devenir un SCP plutôt qu'un être humain.

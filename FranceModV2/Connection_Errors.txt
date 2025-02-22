@@ -1,0 +1,38 @@
+<size=80>VOUS ÊTES EXPULSÉ</size>\nLe serveur a forcé l'arrêt de la connexion.
+<size=80>DÉCONNECTÉ</size>\nL'hôte spécifié n'est pas disponible.
+<size=80>DÉCONNECTÉ</size>\nL'ID de connexion spécifié n'existe pas.
+<size=80>DÉCONNECTÉ</size>\nLe canal spécifié n'existe pas.
+<size=80>DÉCONNECTÉ</size>\nLe serveur est plein.
+<size=80>DÉCONNECTÉ</size>\nPaquet incorrect reçu.
+<size=80>DÉCONNECTÉ</size>\nConnexion perdue (temps écoulé).
+<size=80>DÉCONNECTÉ</size>\nConnexion perdue (temps écoulé).
+<size=80>DÉCONNECTÉ</size>\nL'opération n'est pas supportée.
+<size=80>DÉCONNECTÉ</size>\nVotre version du jeu est différente de celle du serveur.
+<size=80>DÉCONNECTÉ</size>\nConfiguration du serveur incorrecte.
+<size=80>DÉCONNECTÉ</size>\nL'adresse saisie est invalide ou inexistante.
+<size=80>DÉCONNECTÉ</size>\nUne erreur inattendue a été rencontrée !
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Connexion en cours...</size>
+<size=80>ROUND RECOMMENCÉ</size>\n<size=35>Redémarrage du niveau en cours...</size>
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
+<size=80>VERSION INCOMPATIBLE</size>\nVotre version du jeu est différente de celle du serveur\nClient : [your]; Serveur : [server]
+<size=80>CONNECTÉ</size>\n<size=35>Chargement du niveau...</size>
+<size=35>Chargement de la structure...</size>
+<size=80>DÉCONNECTÉ</size>\nErreur inconnue sur le serveur.
+<size=80>DÉCONNECTÉ</size>\nCe serveur nécessite une authentification par le serveur central.
+<size=80>DÉCONNECTÉ</size>\nVous n'êtes pas sur la liste blanche du serveur.
+<size=80>DÉCONNECTÉ</size>\nVous avez été banni globalement.
+<size=80>DÉCONNECTÉ</size>\nVous avez été banni globalement : [reason].
+<size=80>DÉCONNECTÉ</size>\nVous avez été banni de ce serveur.
+<size=80>DÉCONNECTÉ</size>\nVous avez été banni de ce serveur.\nVous pourrez vous reconnecter le : [date] [time]
+<size=80>DÉCONNECTÉ</size>\nVotre jeton d'authentification a expiré.\nLe serveur pourrait avoir l'heure ou le fuseau horaire incorrect.\nVeuillez contacter l'administrateur du serveur.
+<size=80>DÉCONNECTÉ</size>\nVotre connexion a été limitée. Veuillez réessayer dans quelques secondes.
+<size=80>DÉCONNECTÉ</size>\nLe serveur n'accepte pas les connexions de votre position géographique.\nLe nom du serveur ou les informations pourraient contenir plus de détails.
+<size=80>DÉCONNECTÉ</size>\nVous avez été expulsé par une fonction du serveur.\n\nMotif : [reason]\nCeci est une modification du serveur, pas une fonction du jeu.\nContactez l'administrateur du serveur pour plus d'informations.
+<size=80>DÉCONNECTÉ</size>\nVotre jeton d'authentification a été refusé par le serveur.\nVeuillez redémarrer le jeu ou contacter notre support technique.
+<size=80>DÉCONNECTÉ</size>\nVous avez été banni de ce serveur.\nMotif : [reason]
+<size=80>DÉCONNECTÉ</size>\nVous avez été banni de ce serveur.\nVous pourrez vous reconnecter le : [date] [time]\nMotif : [reason]
+<size=80>VEUILLEZ PATIENTER</size>\nTraitement de la vérification de sécurité du serveur...
+<size=80>DÉCONNECTÉ</size>\nImpossible de valider la vérification de sécurité du serveur.
+<size=80>DÉCONNECTÉ</size>\nLe traitement de la vérification de sécurité du serveur a été trop lent.\nVeuillez réessayer ou contacter l'administrateur du serveur.
+<size=80>ERREUR D'AUTHENTIFICATION</size>\nMessage du serveur central : [message].
+<size=80>DÉCONNECTÉ</size>\nLe serveur est en train de s'arrêter.

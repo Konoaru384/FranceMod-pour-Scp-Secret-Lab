@@ -1,0 +1,44 @@
+VOLUME VOCE  
+Ok  
+FORZA L'AVVIO  
+PROCÉDURE D'OVERRIDE\nRECONFINEMENT SCP-106  
+Inverser l'axe-Y  
+RÉSUMÉ DE LA PARTIE  
+Annuler  
+I N V E N T A I R E  
+LUMINOSITÉ  
+OPTIONS  
+DÉCONNECTER  
+LA TÊTE NUCLÉAIRE EST DÉSACTIVÉE  
+ACCÈS REFUSÉ  
+CHAT VOCALE  
+INVENTAIRE PLEIN  
+SENSIBILITÉ DE LA SOURIS  
+HACKING  
+COLLECTE EN COURS...  
+Augmenter la luminosité <b>ruine considérablement l'atmosphère</b> du jeu.\nEssayez de régler cette valeur aussi basse que possible.\n<b>Il serait conseillé de laisser la valeur par défaut.</b>  
+[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Verrouiller la porte utilise l'aptitude spéciale  
+LA PORTE A ÉTÉ VERROUILLÉE PAR SCP-079  
+Plein écran  
+Êtes-vous sûr de vouloir quitter le serveur ?  
+Options de base. Vous trouverez plus de paramètres dans le menu principal.  
+🕒\nEN ATTENTE DE JOUEURS  
+RÉSUMÉ DE LA PARTIE  
+CONTINUER  
+VOLUME PRINCIPAL  
+👤  
+✪ ÉCHAPPÉ DE LA STRUCTURE  
+✪ ÉCHAPPÉ DE LA STRUCTURE  
+VOUS ÊTES  
+TEMPS : [escape_minutes]:[escape_seconds]  
+Attendez [time] avant d'utiliser [item] à nouveau.  
+Appuyez sur <color=yellow><b>F1</b></color> pour de l'aide.  
+Vous avez été menotté.\n<size=40>Exécutez les ordres ou demandez de l'aide à vos coéquipiers.</size>  
+Vous avez été capturé par les forces Nine-Tailed Fox.\nAvec une menace en moins dans la facility, ils ont pu obtenir des renforts.  
+Vous avez été capturé en tant que Scientifique par la Chaos Insurgency.\nIls peuvent tirer parti de vos informations pour en bénéficier.  
+\n\nLE ROUND COMMENCERA DANS : <color=yellow>{0}</color>s  
+\n\nLE ROUND EST EN <color=#FF5050>🔒</color>  
+SENSIBILITÉ DE VISÉE. RÉDUCTION  
+Appuyez sur [key] pour annuler l'action.  
+Activation ADS  
+Silencier le Chat des Spectateurs

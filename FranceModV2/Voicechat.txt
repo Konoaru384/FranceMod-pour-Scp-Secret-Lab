@@ -1,0 +1,25 @@
+Here is the translation of the provided text into French:
+
+MUTÉ PAR UN ADMIN
+MUTÉ GLOBALMENT
+NON AUTHENTIFIÉ
+RÉGLEZ LES PARAMÈTRES DE CONFIDENTIALITÉ
+Le microphone est désactivé en raison des paramètres de confidentialité.
+Paramètres de confidentialité du chat vocal
+Ce jeu utilise le chat vocal. En utilisant les touches push-to-talk (par défaut "Q" et "V"), vous capturerez l'entrée du microphone et la transmettrez à d'autres utilisateurs connectés au serveur. Certains peuvent temporairement enregistrer de courts échantillons de votre voix, qui seront automatiquement supprimés après la déconnexion du serveur.
+Refuser tout (désactiver la capture du microphone)
+Paramètres personnalisés
+Accepter tout
+Accepter
+Refuser
+Capture du microphone
+Autorisez le jeu à capturer votre microphone et à le transmettre aux utilisateurs lorsque les touches push-to-talk sont maintenues. Une icône de microphone s'affiche en bas de l'écran pour indiquer la transmission active. Le jeu ne transmettra ni n'utilisera jamais le microphone sans que l'indicateur soit visible.
+Courtes enregistrements
+Autorisez les mécaniques de jeu à utiliser de courtes enregistrements de votre voix. Cela inclut l'aptitude "Avec de nombreuses voix" de SCP-939, qui peut enregistrer et reproduire de courts échantillons vocaux de joueurs tués. Tous les enregistrements sont supprimés au moment où vous quittez le serveur ou au redémarrage du round.
+Appliquer les paramètres
+Retour
+Appuyez sur "[key]" et naviguez vers "Paramètres" pour les modifier.
+Silencier tous les joueurs en vie
+Silencier les autres spectateurs
+Silencier le lobby
+Silencier le chat global de fin de round

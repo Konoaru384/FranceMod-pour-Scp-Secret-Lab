@@ -1,0 +1,69 @@
+[<color=yellow>💡</color>] Vous pouvez arrêter un joueur même s'il est armé d'une arme à feu.
+[<color=yellow>💡</color>] Il y a 4 zones dans la structure : Zone de Contention Légère, Zone de Contention Lourde, Zone d'Entrée et Zone de Surface.
+[<color=yellow>💡</color>] <color=yellow>Les scientifiques</color> et <color=orange>le personnel de Classe-D</color> peuvent atteindre la Zone de Surface pour s'échapper.
+[<color=yellow>💡</color>] La Zone d'Entrée a 2 Portes, qui donnent accès à la Zone de Surface. Vous aurez besoin d'une carte magnétique pour les ouvrir.
+[<color=yellow>💡</color>] Utiliser un ascenseur est un moyen simple de s'échapper de nombreux <color=red>SCP</color>.
+[<color=yellow>💡</color>] Un <color=orange>personnel de Classe-D</color> évadé rejoindra la <color=green>Chaos Insurgency</color>, tandis qu'un <color=yellow>scientifique</color> deviendra membre de la <color=#0096FF>Nine-Tailed Fox</color>.
+[<color=yellow>💡</color>] L'adrénaline peut être utilisée pour recharger instantanément votre endurance et peut vous donner divers avantages au combat.
+[<color=yellow>💡</color>] La radio a 4 modifications de portée. Plus la portée est longue, plus la batterie s'épuisera rapidement.
+[<color=yellow>💡</color>] La Nine-Tailed Fox et la Chaos Insurgency apparaissent aux extrémités opposées de la Zone de Surface.
+[<color=yellow>💡</color>] La tête nucléaire Alpha tuera instantanément tous ceux qui se trouvent à l'intérieur de la structure lorsqu'elle explosera. Elle peut être activée depuis la Zone de Surface.
+[<color=yellow>💡</color>] La séquence de détonation de la tête nucléaire Alpha peut être annulée dans une salle de la Zone de Contention Lourde.
+[<color=yellow>💡</color>] La salle de l'Intercom se trouve dans la Zone d'Entrée et peut être utilisée pour parler à tous les joueurs de la structure.
+[<color=yellow>💡</color>] Vous pourrez lancer des objets avec (["<color=yellow>T</color>"] par défaut). Cela peut être utilisé pour ouvrir des portes avec des cartes magnétiques ou pour briser des vitres.
+[<color=yellow>💡</color>] La Zone de Contention Légère sera verrouillée après <color=orange>15 minutes</color>, tuant tous ceux qui s'y trouvent. Échappez-vous tant que vous le pouvez !
+[<color=yellow>💡</color>] Maximisez votre avantage en ajustant les accessoires de vos armes en fonction de la situation dans laquelle vous vous trouvez.
+[<color=yellow>💡</color>] Plus une arme a d'accessoires, plus elle devient lourde. Cela affecte l'utilisation de l'endurance et la vitesse de mouvement.
+[<color=yellow>💡</color>] Les silencieux non seulement réduisent le bruit des tirs, mais cachent également les éclats de feu du canon.
+[<color=yellow>💡</color>] Les armes plus longues et lourdes sont moins précises si elles sont tirées en courant.
+[<color=red>💡</color>] Traductions réalisées par : Dominikk et Adasiek. Amusez-vous bien !
+[<color=red>💡</color>] Version actuelle des traductions : <b>4.3.0</b>.
+[<color=yellow>💡</color>] Porter une armure augmente le nombre d'objets et de munitions que vous pouvez transporter.
+[<color=yellow>💡</color>] Les balles perforantes (AP) donnent les meilleurs résultats contre les cibles blindées.
+[<color=yellow>💡</color>] Les balles à pointe creuse (JHP) infligent plus de dégâts aux cibles non armées mais sont plus faibles contre l'armure.
+[<color=yellow>💡</color>] Maintenez enfoncé le bouton de rechargement pour retirer le chargeur d'une arme, ajoutant ses munitions à votre inventaire.
+[<color=yellow>💡</color>] Les armes de la Chaos Insurgency sont puissantes mais leurs munitions ne se génèrent pas dans la Structure. N'oubliez pas cela.
+[<color=yellow>💡</color>] Les grenades peuvent être utilisées pour détruire des portes.
+[<color=yellow>💡</color>] Les grenades peuvent être lancées avec moins de force en utilisant le bouton droit de la souris.
+[<color=yellow>💡</color>] La <color=#037ffc>Micro H.I.D.</color> peut tuer la plupart des <color=red>SCP</color> très rapidement mais a une alimentation limitée. Utilisez-la judicieusement !
+[<color=yellow>💡</color>] La <color=#037ffc>Micro H.I.D.</color> nécessite environ <color=yellow>5</color> secondes de charge avant de pouvoir être utilisée.
+[<color=yellow>💡</color>] En maintenant le bouton droit de la souris, la <color=#037ffc>Micro H.I.D.</color> est prête à tirer ; drainant lentement de l'énergie.
+[<color=yellow>💡</color>] La <color=#037ffc>Micro H.I.D.</color> est très bruyante pendant le rechargement. Assurez-vous de l'utiliser lorsque vos cibles ne peuvent pas s'échapper.
+[<color=yellow>💡</color>] La charge de la <color=#037ffc>Micro H.I.D.</color> produit un son intimidant qui est suffisant pour ruiner les plans de vos ennemis.
+[<color=yellow>💡</color>] Une bouteille de <color=yellow>SCP-207</color> non seulement augmente votre vitesse de mouvement, mais restaure également partiellement votre santé.
+[<color=yellow>💡</color>] Vous pouvez boire jusqu'à quatre bouteilles de <color=yellow>SCP-207</color>, permettant un multiplicateur significatif de votre vitesse.
+[<color=yellow>💡</color>] <color=yellow>SCP-500</color> non seulement vous guérit, mais élimine également la plupart des effets négatifs et fournit une régénération par la suite.
+[<color=yellow>💡</color>] Alors que <color=yellow>SCP-268</color> vous rend invisible à tous les humains, <color=red>SCP-079</color> et <color=red>SCP-939s</color> peuvent toujours vous voir.
+[<color=yellow>💡</color>] <color=yellow>SCP-268</color> ne vous sauvera pas de <color=red>SCP-096</color> si vous l'avez regardé.
+[<color=yellow>💡</color>] <color=yellow>SCP-018</color> est hautement imprévisible. Lorsque vous le lancez, mettez-vous à l'abri.
+[<color=yellow>💡</color>] <color=yellow>SCP-018</color> peut être utilisé pour bloquer les poursuivants lorsqu'il rebondit dans un couloir.
+[<color=green>SCP-914</color>] peut changer tous les objets, y compris les armes et les munitions.
+[<color=green>SCP-914</color>] peut recharger la radio et la <color=#037ffc>Micro H.I.D.</color>
+[<color=red>SCP-079</color>] commence relativement faible mais devient plus puissant au fur et à mesure que la partie avance.
+[<color=red>SCP-079</color>] peut verrouiller les portes, éteindre les lumières et surcharger les Portes Tesla.
+[<color=yellow>💡</color>] Une <color=yellow>Portes Tesla</color> observée par <color=red>SCP-079</color> apparaîtra toujours active.
+[<color=red>SCP-079</color>] ne peut pas éteindre les lumières dans une pièce avec une porte cassée.
+[<color=red>SCP-079</color>] est reconfiné en utilisant des générateurs trouvés dans la Contention Lourde et un bouton final dans sa chambre de confinement.
+[<color=yellow>💡</color>] Une caméra utilisée par <color=red>SCP-079</color> émettra une lumière bleue. Vous ne savez jamais quand il vous regarde.
+[<color=red>SCP-173</color>] peut se déplacer librement dans des pièces sombres, même si vous le regardez. Apportez une lampe de poche !
+[<color=red>SCP-173</color>] peut tuer par derrière.
+[<color=red>SCP-173</color>] peut créer une flaque qui ralentit les humains qui la traversent, créant une zone "difficile à franchir" rapide et efficace.
+[<color=red>SCP-106</color>] est résistant aux balles mais pas aux explosifs et à l'électricité.
+[<color=red>SCP-106</color>] peut traverser des portes et des fenêtres en verre.
+[<color=red>SCP-096</color>] est plus vulnérable lorsqu'il vient de commencer à se calmer.
+[<color=red>SCP-096</color>] peut charger en avant lorsqu'il est en colère, brisant des portes et tuant des cibles.
+[<color=red>SCP-096</color>] détruira les portes et ouvrira les Portes fermées lorsqu'il est en colère.
+[<color=red>SCP-939</color>] ne peut pas être affecté par l'armure.
+[<color=red>SCP-939</color>] inflige de l'amnésie aux humains qu'il mord, obscurcissant leur vision.
+[<color=red>SCP-939</color>] peut courir indéfiniment et est complètement silencieux en marchant.
+[<color=red>SCP-939</color>] est silencieux lorsqu'il marche, ce qui en fait un prédateur parfait pour l'embuscade.
+[<color=red>SCP</color>] a des pas distincts de ceux des humains. Écoutez attentivement !
+[<color=red>SCP-049</color>] peut tuer instantanément n'importe quel humain s'il s'en approche.
+[<color=red>SCP-049</color>] ne peut réanimer que les cadavres frais.
+[<color=red>SCP-049-2</color>] est vulnérable aux coups à la tête.
+[<color=red>SCP-049-2</color>] sont de bons explorateurs et sont dangereux en grand nombre.
+[<color=red>SCP</color>] jouables ont une barre de santé secondaire appelée <color=#9b54ff>‘Hume Shield’</color>, qui absorbe les dégâts et se régénère avec le temps.
+[<color=red>SCP-049</color>] peut fournir un petit bouclier aux instances de <color=red>SCP-049-2</color> à proximité.
+[<color=yellow>💡</color>] L'arrêt cardiaque épuise rapidement votre santé. Vous aurez besoin de fournitures médicales si vous voulez survivre.
+[<color=yellow>💡</color>] Alors qu'il est en mode Stalk, <color=red>SCP-106</color> peut voir les humains dans un court rayon autour de lui.
+[<color=yellow>💡</color>] <color=red>SCP-079</color> déverrouille un scanner au niveau 4. S'il détecte un être humain caché dans une pièce, il déclenchera une alarme.

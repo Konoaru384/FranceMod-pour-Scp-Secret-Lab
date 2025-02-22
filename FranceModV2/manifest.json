@@ -1,0 +1,20 @@
+{
+  "Name": "<u><b>Italy [Mod Version: 4.2.0]<b></u>",
+  "Authors": [
+    "Adasiek & Dominikk - PaRRoT_tm"
+  ],
+  "InterfaceLocales": [
+    "it-IT",
+    "it"
+  ],
+  "SystemLocales": [
+    "it-IT",
+    "it-SM",
+    "it-CH",
+    "it-VA",
+    "it"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

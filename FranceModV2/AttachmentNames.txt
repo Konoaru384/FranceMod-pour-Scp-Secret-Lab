@@ -1,0 +1,46 @@
+Aucune modification~Accessoire de base, n'a aucun effet.
+Visée en fer~Une paire de marqueurs d'alignement, avec un grossissement de 1,3x, qui constitue un dispositif de visée simple et léger.
+Visée point rouge~Visée de type REFLEX, avec un grossissement de 1,5x, ayant un point central illuminé qui indique la trajectoire de tir.
+Visée holographique~Visée de type HOLOGRAPHIQUE, avec un grossissement de 1,5x, efficace dans les combats rapprochés.
+Visée avec vision nocturne~Visée de type TÉLESCOPIQUE avec VISION NOCTURNE, grossissement de 3,3x, lourde mais efficace dans toutes les conditions d'éclairage.
+Visée avec compteur de munitions~Visée en fer, avec un grossissement de 1,3x, intégrée avec un dispositif pour le comptage des munitions restantes.
+Visée télescopique~Visée de type TÉLESCOPIQUE, avec un grossissement de 6x, parfaite pour les tireurs d'élite. Très utilisée pour le long rayon, mais limite la perception globale.
+Crosse standard~Fournit les meilleures conditions pour avoir une arme stable si l'on vise vers le bas.
+Crosse étendue~Fournit de meilleures performances pour viser vers le bas, il faudra plus de temps pour l'équiper.
+Crosse rétractable~Rend l'arme plus compacte, augmentant la mobilité.
+Crosse légère~Réduit le poids de l'arme, mais rend plus difficile le contrôle du recul lorsque l'on vise vers le bas avec la visée.
+Crosse lourde~L'augmentation de poids réduit la mobilité, mais rend l'arme plus stable lorsque l'on vise vers le bas avec la visée.
+Crosse pour réduction du recul~Crosse dotée d'un système qui tente de disperser la force entre les coups.
+Poignée verticale~Poignée verticale à l'avant ; facilite la gestion du recul.
+Pointeur laser~Fournit un point de référence visuel sur la cible, mais peut facilement révéler votre position.
+Lampe torche~Source de lumière, activable. Augmente le poids total de l'arme, mais peut être un sauveur dans les zones sombres.
+Compteur de munitions~Dispositif pour le comptage des munitions. Technologie expérimentale qui s'est révélée utile, surtout avec des chargeurs à haute capacité.
+Canon standard~Canon conventionnel sans aucun dispositif attaché.
+Canon long~Améliore la puissance de feu globale, mais réduit la mobilité en raison de l'augmentation de poids et de longueur.
+Silencieux~Modère le son, réduisant le volume des tirs, mais augmente le poids total et la longueur de l'arme.
+Cache-flamme~Élimine la flamme du tir. Rendra plus facile de tirer en cas d'éclairage réduit.
+Compensateur de bouche~Compensateur pour le recul. Utilise des gaz propulseurs pour réduire le recul, mais augmente l'intensité acoustique des tirs.
+Amplificateur de recul~Augmente la vitesse de tir, mais diminue le contrôle du recul.
+Chargeur avec balles blindées~<b><size=50>SCP: <color=yellow>⁍⁍</color> | BLINDÉ: <color=yellow>⁍⁍</color></b>
+Chargeur avec projectiles perforants~<b><size=50>SCP: <color=red>⁍</color> | BLINDÉ: <color=green>⁍⁍⁍</color></b>
+Chargeur avec projectiles à pointe creuse~<b><size=50>SCP: <color=green>⁍⁍⁍</color> | BLINDÉ: <color=red>⁍</color></b>
+Chargeur étendu avec balles blindées~<b><size=50>SCP: <color=yellow>⁍⁍</color> | BLINDÉ: <color=yellow>⁍⁍</color></b>
+Chargeur étendu avec projectiles perforants~<b><size=50>SCP: <color=red>⁍</color> | BLINDÉ: <color=green>⁍⁍⁍</color></b>
+Chargeur étendu avec projectiles à pointe creuse~<b><size=50>SCP: <color=green>⁍⁍⁍</color> | BLINDÉ: <color=red>⁍</color></b>
+Chargeur tambour avec balles blindées~<b><size=50>SCP: <color=yellow>⁍⁍</color> | BLINDÉ: <color=yellow>⁍⁍</color></b>
+Chargeur tambour avec projectiles perforants~<b><size=50>SCP: <color=red>⁍</color> | BLINDÉ: <color=green>⁍⁍⁍</color></b>
+Chargeur tambour avec projectiles à pointe creuse~<b><size=50>SCP: <color=green>⁍⁍⁍</color> | BLINDÉ: <color=red>⁍</color></b>
+Chargeur à faible capacité avec balles blindées~<b><size=50>SCP: <color=yellow>⁍⁍</color> | BLINDÉ: <color=yellow>⁍⁍</color></b>
+Chargeur à faible capacité avec projectiles perforants~<b><size=50>SCP: <color=red>⁍</color> | BLINDÉ: <color=green>⁍⁍⁍</color></b>
+Chargeur à faible capacité avec projectiles à pointe creuse~<b><size=50>SCP: <color=green>⁍⁍⁍</color> | BLINDÉ: <color=red>⁍</color></b>
+Tambour à 4 balles~<b><size=50>SCP: <color=red>⁍</color> | BLINDÉ: <color=green>⁍⁍⁍</color></b>
+Tambour à 6 balles~<b><size=50>SCP: <color=yellow>⁍⁍</color> | BLINDÉ: <color=yellow>⁍⁍</color></b>
+Tambour à 8 balles~<b><size=50>SCP: <color=yellow>⁍⁍</color> | BLINDÉ: <color=yellow>⁍⁍</color></b>
+Récepteur de carabine~Récepteur normal de carabine qui est considéré comme un grand compromis entre puissance de feu et mobilité.
+Récepteur de fusil~Récepteur de fusil améliore la puissance de feu et la précision, mais un système à gaz plus lourd réduit le taux de tir.
+Canon court~Version courte du canon standard, utilisée pour améliorer la vitesse de traction et la mobilité.
+Choke~Augmente le rayon total de diffusion, mais améliore la cohérence de l'échantillon.
+Canon étendu~Réduit légèrement le rayon de diffusion mais augmente le poids total de l'arme à feu et sa longueur.
+Sans crosse~Les configurations courtes sont dotées d'une grande mobilité, mais retirer les crosse d'un fusil rend impossible de viser en toute sécurité vers le bas avec la visée.
+Système à coup unique~Système standard ; une gâchette entraîne un tir.
+Système à coups multiples~Mécanisme de détente modifié qui actionne les deux soudures avec une seule traction.

@@ -1,0 +1,5 @@
+Universellement hostile : Les humains n’ont nulle part où fuir. <color=#FF59CA>SCP-1507</color> peut localiser ses cibles à travers l’environnement.
+L’Essaim : Les instances de <color=#FF59CA>SCP-1507</color> régénéreront leur santé tant qu’elles resteront dans un groupe.
+Peck : Fait basculer votre bec en plastique dans une cible, lui infligeant des blessures profondes. Vous pouvez ouvrir de force des portes verrouillées en les picorant.
+Vocaliser : Laisse un grincement, cuisant les cibles proches. Cette capacité peut être utilisée pour ressusciter des flamants roses récemment morts.
+Vocaliser [key]

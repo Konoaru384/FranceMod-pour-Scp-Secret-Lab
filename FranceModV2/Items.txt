@@ -1,0 +1,50 @@
+0~<color=#bcb1e4>💳 Carte Magnétique du Gardien 💳</color>
+1~<color=#e7d678>💳 Carte Magnétique du Scientifique 💳</color>
+2~<color=#ddab20>💳 Carte Magnétique du Chercheur 💳</color>
+3~<color=#217778>💳 Carte Magnétique du Responsable de Zone 💳</color>
+4~<color=#606770>💳 Carte Magnétique de la Garde de la Structure 💳</color>
+5~<color=#a2cade>💳 Carte Magnétique du Soldat Renard à Neuf Queues 💳</color>
+6~<color=#b6887f>💳 Carte Magnétique de l'Ingénieur de Containment 💳</color>
+7~<color=#5180f7>💳 Carte Magnétique de l'Opérateur Renard à Neuf Queues 💳</color>
+8~<color=#1841c8>💳 Carte Magnétique du Capitaine Renard à Neuf Queues 💳</color>
+9~<color=#ba1846>💳 Carte Magnétique du Responsable de la Structure 💳</color>
+10~<color=#35493e>📟 Dispositif d'Accès de l'Insurrection du Chaos 📟</color>
+11~<color=#000000>💳 Carte Magnétique Niveau-O5 💳</color>
+12~<color=#606770>📻 Radio 📻</color>~Utilisé pour communiquer avec vos alliés \n Vous pouvez entendre sur de plus grandes distances mais cela se décharge plus rapidement.</color>
+13~<color=#e7d678>🔫 COM-15 🔫</color>
+14~<color=#04b018>Kit de Premiers Secours</color>~[<color=#00FF00>✚</color>] <color=#057a01>Objet de Soins</color> [<color=#00FF00>✚</color>]\n\nSoigne vos blessures.\n <color=#00FF00>+65hp</color> après <color=#DC143C>5s</color>
+15~<color=#606770>🔦 Lampe Torche 🔦</color>~Que la lumière soit!
+16~<color=#5EE9FF>⚡</color><color=#1841c8> Micro H.I.D.</color><color=#5EE9FF> ⚡</color>~<color=#00FF00>5s</color> \n Délai d'Activation: <color=#00FF00>2s</color> \n Tir Maximum: <color=#00FF00>10s \n <color=#F5650A>Inflige 1150 DPS. \n <color=#FFFF00>+50% Consommation d'Endurance</color>
+17~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04b018>500</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n \n<color=#00FF00>+200hp</color> en <color=#DC143C>10s</color> \n Annule tous les effets négatifs
+18~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\n<color=#00FF00>+30HP</color> après <color=#DC143C>5s</color> \n Vitesse de Mouvement Augmentée \n <color=#F5650A>Absorbe des HP dans le Temps</color> \n <color=#EC2222>Ne se mélange pas bien avec d'autres liquides comme SCP-1853</color>
+20~<color=#5180f7>🔫 MTF-E11-SR 🔫</color>
+21~<color=#a2cade>🔫 Crossvec 🔫</color>
+23~<color=#606770>🔫 FSP-9 🔫</color>
+24~<color=#35493e>🔫 Logicer 🔫</color>
+25~<color=#8f3c3c>💣 Grenade à Fragmentation 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Grenade</color> [<color=#FFA500>💥</color>]\n\n Délai d'Activation <color=#DC143C>5s</color>\n <color=#FFFF00> Applique Brûlé et Étourdi \n <color=#FF0000>Faible contre les Humains</color>
+26~<color=#606770>💣 Grenade Éblouissante 💣</color>~[<color=#FFA500>💥</color>] <color=#ff4f4d>Grenade</color> [<color=#FFA500>💥</color>]\n\nPermet d'éblouir les ennemis\nDélai d'Activation <color=#DC143C>3s</color> \n Temps Maximum d'Éblouissement <color=#DC143C>5s</color>
+30~<color=#606770>🔫 COM-18 🔫</color>
+31~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#ff0000>018</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\n Dure <color=#DC143C>80s</color> \n <color=#FF0000>Inflige Plus de Dégâts Plus Vite Va</color>!
+32~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>268</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\nInvisibilité à l'utilisateur pendant <color=#DC143C>15s</color> \n\n <color=#FFFF00>Est Annulé après l'interaction de l'utilisateur!</color>
+33~<color=#04b018>Adrénaline</color>~[<color=#6860c8>⛨</color>] <color=#057a01>Objet de Soins</color> [<color=#6860c8>⛨</color>]\n\nAugmente temporairement la résistance.\n<color=#00FF00>+40AHP</color>, se consomme lentement. \nRecharge l'Endurance pendant <color=#DC143C>20s</color>
+34~<color=#04b018>Antidouleurs</color>~[<color=#00FF00>✚</color>] <color=#057a01>Objet de Soins</color> [<color=#00FF00>✚</color>]\n\nSoulage les blessures mineures.\n <color=#00FF00>+50hp</color> en <color=#DC143C>10s</color>
+35~💿 Monnaie 💿~On n'est pas sûr de la raison de vouloir la garder...
+36~<color=#606770>🎽 Armure Légère 🎽</color>
+37~<color=#5180f7>🎽 Armure de Combat 🎽</color>
+38~<color=#1841c8>🎽 Armure Lourde 🎽</color>
+39~<color=#35493e>🔫 Revolver 🔫</color>
+40~<color=#35493e>🔫 AK 🔫</color>
+41~<color=#35493e>🔫 Fusil à Pompe 🔫</color>
+42~<color=#ff0000>🍬 SCP-330 🍬</color>~Un sac de bonbons contenant les sucreries suivantes :
+43~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>2176</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\nUne Ghostlight personnelle! Attention, très fragile...
+44~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04bade>244-A</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\nUn vase ancien glacé au toucher. Crée un grand nuage de brouillard glacé lorsqu'il est placé.
+45~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#04bade>244-B</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\nUn vase ancien glacé au toucher. Crée un grand nuage de brouillard glacé lorsqu'il est placé.
+46~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>1853</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\nAméliore les compétences de manipulation des armes au prix d'une utilisation accrue de l'endurance.
+47~<color=#1841c8>🔫 3-X Destructeur de Particules 🔫</color>
+48~<color=#ff0000>🔫 COM-45 🔫</color>
+49~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#6e04b0>1576</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\nParler avec ceux qui ne sont plus avec nous.
+50~<color=#037ffc>Jailbird</color>~[<color=yellow>⚡</color>] <color=#3f3d87>Expérimental</color> [<color=yellow>⚡</color>] \n\n[<color=#FFFF00>Clic Gauche de la Souris</color>] Inflige: 50 DMG\n[<color=#FFFF00>Clic Droit de la Souris</color>] Inflige: 250 DMG
+51~<color=#ff0000>SCP</color><color=#1f211f>-</color><color=#FFFF7C>207?</color>~[<color=#FFA500>⚠</color>] <color=#ff0000>Objet SCP</color> [<color=#FFA500>⚠</color>]\n\nDiminue votre vitesse mais fournit l'effet de régénération\nNE PAS MÉLANGER AVEC :\n<color=#95D600>d'autres liquides comme SCP-1853</color> ou <color=#F40009>COCA-COLA</color>
+52~<color=#003DCA>🔫 MTF-Ԑ-11-MG 🔫</color>
+53~<color=#ff0000>🔫 A7 🔫</color>
+54~<color=#967969>🏮 Lanterne 🏮</color>~Une lanterne à huile classique, avec l'inscription du nom "Daniel".

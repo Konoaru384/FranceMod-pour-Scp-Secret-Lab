@@ -1,0 +1,6 @@
+<color=red>Accès Refusé</color>  
+<color=red>❌</color>\n<b>Limite Atteint</b> <color=yellow>[type] munitions</color> (<color=yellow>[max_type_count] coups</color>).  
+<color=red>❌</color>\n<b>Limite Atteint</b> <color=yellow>[type] munitions</color> (<color=yellow>[max_type_count] coups</color>).  
+<color=yellow>❌</color>\n<b>Limite Atteint</b> <color=yellow>[type]</color> (<color=yellow>[max_type_count] objets</color>).  
+<color=red>❌</color>\n<b>Limite Atteint</b> <color=yellow>[type]</color> (<color=yellow>[max_type_count] objets</color>).  
+<color=red>❌</color>\nL'INVENTAIRE EST PLEIN

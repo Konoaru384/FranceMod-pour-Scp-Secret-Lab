@@ -1,0 +1,90 @@
+🔍 AGRANDISSEMENT <color=#126ede>[amount]</color>x  
+<color=#8080FF>💳 NIVEAU D'ACCÈS [tier]</color>  
+📖 ESP [current] / [next]  
+<color=#8080FF>💳 NIVEAU MAXIMUM ATTEINT 🔓</color>  
+<color=#EC2121>❌ AUCUNE CAMÉRA ❌</color>  
+<color=#8080FF>📡</color> ALLER À : <color=yellow>[camera]</color> <color=#d65302>([cost])</color>  
+❌ ÉNERGIE SUPPLÉMENTAIRE INSUFFISANTE ❌  
+TEMPS ESTIMÉ DE RECHARGE : [time] secondes  
+⛔ ACCÈS REFUSÉ - UN NIVEAU SUPÉRIEUR EST REQUIS ⛔  
+❌ CAMÉRA NON VALIDE ❌  
+⛔ ACCÈS À LA PORTE REFUSÉ ⛔  
+<color=green>○</color> OUVRIR LA PORTE <color=#d65302>([cost])</color>  
+<color=#07A2FF>●</color> FERMER LA PORTE <color=#d65302>([cost])</color>  
+<color=red>🔒</color> VERROUILLER LA PORTE <color=#d65302>([cost])</color>  
+<color=green>🔓</color> DÉVERROUILLER LA PORTE  
+<color=yellow>⚠</color> TEMPS DE RECHARGE POUR VERROUILLER LA PORTE <color=yellow>⚠</color>  
+<color=#8080FF>⚡ ÉNERGIE SUPPLÉMENTAIRE</color>  
+<color=yellow>⚠</color><color=red> VOUS ÊTES ATTAQUÉ </color><color=yellow>⚠</color>  
+<color=green>🔓</color> DÉVERROUILLER TOUTES LES PORTES VERROUILLÉES  
+OUVRIR LA CARTE DE LA STRUCTURE  
+FERMER  
+<color=#f5eb9c>ZONE DE CONFINEMENT LÉGER</color>  
+<color=#ca2642>ZONE DE CONFINEMENT LOURD</color>  
+<color=#bcfab2>ZONE D'ENTRÉE</color>  
+<color=#9cc7f5>ZONE DE SURFACE</color>  
+<color=#FFD700>💡</color> COUPURE DE COURANT <color=#d65302>([cost])</color>  
+❌ LA COUPURE DE COURANT N'EST PAS DISPONIBLE POUR CETTE PIÈCE ❌  
+🚨 COUPURES DE COURANT MAXIMALES ATTEINTES 🚨  
+<color=yellow>⚠</color> TEMPS DE RECHARGE POUR LA COUPURE DE COURANT DANS LA PIÈCE <color=yellow>⚠</color>  
+<color=orange>🔺🔻</color> DÉMARRER L'ASCENSEUR <color=#d65302>([cost])</color>  
+<color=red>🔒</color> ISOLATION <color=#d65302>([cost])</color>  
+<color=yellow>⚠</color> TEMPS DE RECHARGE POUR ISOLER LA PIÈCE <color=yellow>⚠</color>  
+❌ AUCUNE PORTE DISPONIBLE POUR ISOLER LA PIÈCE ❌  
+<color=#8080FF>🚨</color> SIGNALER LA POSITION <color=#d65302>([cost])</color>  
+🚨 LIMITE DE SIGNALISATIONS ATTEINTE 🚨  
+❌ PASSAGE DE CAMÉRA ÉCHOUÉ ❌  
+Connexion...  
+RECONNEXION <color=#00FF00> TEMPS ESTIMÉ : [time] seconde/s</color>  
+<color=yellow>⚡</color> ACTIVER LE GATE TESLA <color=#d65302>([cost])</color>  
+<color=yellow>⚠</color> TEMPS DE RECHARGE POUR ACTIVER LE GATE TESLA <color=yellow>⚠</color>  
+$<color=#8080FF>💳 Niveau d'Accès [tier]</color>$ - DÉVERROUILLÉ  
+$<color=#8080FF>⚡ ÉNERGIE SUPPLÉMENTAIRE</color>$ limite augmentée à $[limit]$.  
+$<color=#FFD700>💡</color> La COUPURE DE COURANT$ est maintenant disponible - appuyez sur $[key]$ pour désactiver les lumières de la pièce pendant 15s.  
+$<color=#FFD700>💡</color> La capacité de la COUPURE DE COURANT$ a été augmentée à $[number]$ pièces.  
+$<color=red>🔒</color> L'$ISOLATION$ est maintenant disponible - appuyez sur $[key]$ pour verrouiller toutes les portes à l'intérieur de la pièce pendant 10s.  
+[<color=#00FF00>+</color>] [amount] <color=#008000>ESP</color> - <color=#ff00b0>Commande Admin</color>  
+[<color=#00FF00>+</color>] [amount] <color=#008000>ESP</color> - [role] participation à la terminaison  
+[<color=#00FF00>+</color>] [amount] <color=#008000>ESP</color> - [role] terminaison directe  
+[<color=#00FF00>+</color>] [amount] <color=#008000>ESP</color> - Témoin de la cessation par un coéquipier <color=#8080FF>📷</color>  
+[<color=#00FF00>+</color>] [amount] <color=#008000>ESP</color> - Participation à une poursuite d'un coéquipier <color=#8080FF>🚪</color>  
+[<color=#00FF00>+</color>] [amount] <color=#008000>ESP</color> - Protection d'un coéquipier <color=#8080FF>🎽</color>  
+[<color=#00FF00>+</color>] [amount] <color=#008000>ESP</color> - Évitement de l'utilisation d'une Micro H.I.D. <color=#8080FF>⚡</color>  
+PORTE DÉJÀ VERROUILLÉE  
+<color=#ff9e00>☀ COUPURE DE COURANT DE ZONE</color> - désactiver les lumières d'une zone pendant 60 secondes - <color=#d65302>([cost])</color>  
+$<color=#ff9e00>☀</color> COUPURE DE COURANT DE ZONE$ est maintenant disponible - cliquez sur les étiquettes de zones de la $CARTE DE LA STRUCTURE$.  
+<color=yellow>⚠</color> TEMPS DE RECHARGE POUR LA COUPURE DE COURANT DE ZONE <color=yellow>⚠</color>  
+🚨 LA COUPURE DE COURANT EST DÉJÀ ACTIVE 🚨  
+❌ LA COUPURE DE COURANT N'EST PAS DISPONIBLE POUR CETTE ZONE ❌  
+🔬 FORMES DE VIE TOTALES  
+💀 CIBLE  
+<color=#EC2222>🌀 INSTANCES SCP</color>  
+<color=#f5eb9c>📋 CIVILS</color>  
+<color=#9cc7f5>🔫 MILITAIRES</color>  
+<color=#8080FF>🔊</color> UTILISER LE HAUT-PARLEUR  
+⛔ ACCÈS REFUSÉ À L'ASCENSEUR ⛔  
+SCP-079 n'a pas de capacités de combat direct ou de mouvement. Au lieu de cela, vous voyez et interagissez avec le monde à travers les caméras de sécurité trouvées dans chaque pièce. Toutes les compétences disponibles sont énumérées dans le coin supérieur de votre HUD.  
+Virtuellement Indestructible : Trois générateurs se génèrent dans la Zone de Confinement Lourd. Si tous les générateurs sont déverrouillés et activés, vous serez reconfiné après 60 secondes. Les générateurs ont une séquence de compte à rebours que n'importe quel joueur peut interrompre en appuyant sur le bouton "ANNULER" sur le générateur, y compris les SCP.  
+Accès illimité : Il est possible de manipuler de nombreux systèmes dans la structure pour aider les autres SCP. La partie en haut à droite de l'écran montre quelles compétences sont disponibles. Ces compétences coûtent de l'énergie supplémentaire (AP) à utiliser, qui se régénère avec le temps.  
+Apprentissage profond : Aider aux terminaisons ou effectuer des actions utiles pour les autres SCP vous garantira de l'expérience vers un nouveau niveau d'accès. Chaque nouveau niveau fournit plus d'AP et vous accorde de nouvelles compétences.  
+Overwatch : Être partout et nulle part vous donne une perspective unique. Il est possible d'effectuer la signalisation des positions, des personnes et des objets d'intérêt, ce qui permet d'assister au massacre.  
+Le $SCANNER$ est maintenant disponible : sélectionnez l'équipe/zone dans la $carte de la structure$ pour lancer une analyse périodique des survivants.  
+LA RÉGÉNÉRATION DE L'ÉNERGIE SUPPLÉMENTAIRE EST MAINTENANT SUSPENDUE  
+LA RÉGÉNÉRATION DE L'ÉNERGIE SUPPLÉMENTAIRE A ÉTÉ RÉDUITE À [pourcentage]  
+🚨 VERROUILLAGE DE LA PORTE ACTIF 🚨  
+<color=#8080FF>🔊 HAUT-PARLEUR EN USAGE 🔊</color>  
+🔒 ISOLATION EN COURS 🔒  
+<color=#ffa500>🎥 SCANNER</color>  
+RETOUR À LA CARTE  
+<color=#ffa500>🎥 SCANNER</color> - <color=yellow>[cnt]</color> zone  
+ZONES SÉLECTIONNÉES : <color=yellow>[cnt]</color>  
+ZONES SÉLECTIONNÉES : <color=yellow>0</color>\n <size=75%><color=orange>[SÉLECTIONNEZ UNE OU PLUSIEURS ZONES POUR LANCER LE SCANNER]</color></size>  
+Résumé de l'analyse : $Aucune forme de vie détectée$.  
+Nouvelle tentative dans <color=yellow>[time]</color> secondes...  
+Résumé de l'analyse : $[role]$ détecté à <color=yellow>‘$[camera_name]$’</color> <color=#823a35>([zone])</color>.  
+PROCHAINE ANALYSE : <color=yellow>[time]</color> seconde/s  
+<color=#0ba11f>Analyse...</color>  
+<color=red>ANALYSE SUSPENDUE</color>\n\n\n\n\n\n<size=65%>[<color=yellow>💡</color>] <b>SUGGESTION</b>\n\n</size><color=orange><size=55%>[ASSUREZ-VOUS D'AVOIR SÉLECTIONNÉ AU MOINS UN FILTRE]</size>\n\n<size=55%>[ASSUREZ-VOUS D'AVOIR SÉLECTIONNÉ AU MOINS UNE ZONE]</color>  
+SÉLECTIONNEZ DES ÉQUIPES À DÉTECTER  
+Le Scanner détecte les cibles restantes qui restent dans la même zone pendant une longue période.  
+<size=75%><color=orange>[SÉLECTIONNEZ AU MOINS UN FILTRE POUR LANCER L'ANALYSE]</color></size>

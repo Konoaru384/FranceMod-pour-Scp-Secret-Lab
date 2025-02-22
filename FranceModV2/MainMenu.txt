@@ -1,0 +1,101 @@
+REJOINDRE
+FERMER
+QUALITÉ DES OMBRES
+PARAMÈTRES
+BASÉ SUR <i>SCP: CONTAINMENT BREACH</i>
+RETOUR
+LANGUE
+ANTIALIASING
+Modifier les détails :\n- NOMBRE DE LUMIÈRES PIXEL - nombre maximum de sources de lumière dont la lumière est rendue par pixel.\n-V-Sync - active la synchronisation avec le taux de rafraîchissement de l'écran.
+TROUVER UNE PARTIE
+POST\nTRAITEMENT
+CRÉDITS
+QUITTER LE JEU
+Plein écran
+PARAMÈTRES D'ÉCRAN
+CORRECTION DES COULEURS
+Entrez l'adresse IP...
+RÉSOLUTION D'ÉCRAN
+JOUER
+NOMBRE DE LUMIÈRES PIXEL
+TYPE D'OMBRES
+OMBRES
+CRÉER UNE PARTIE
+Modifier les paramètres de post-traitement. Ces changements n'auront pas d'effet sur la performance. Il est conseillé de laisser les paramètres par défaut.
+MODE DE RENDU DES LUMIÈRES :\nLorsque désactivé - le jeu aura un aspect moins bon. Il est conseillé de l'utiliser uniquement si vous avez un ordinateur bas de gamme.
+V-SYNC
+CONNECTEZ-VOUS
+PARAMÈTRES DE QUALITÉ
+Modifier les préférences sur les ombres. Placer ces curseurs sur la valeur la plus basse pourrait améliorer la fluidité du jeu.
+MENU
+MODE DE RENDU DES LUMIÈRES
+FLUIDITÉ DE MOUVEMENT
+DISTANCE DES OMBRES
+DÉTAILS
+3. l'SCP-914
+TUTORIELS
+ATTENTION
+Rechercher parmi les serveurs disponibles
+Ne plus afficher
+Comment souhaitez-vous vous connecter ?
+LISTE DES SERVEURS
+OK
+RECHERCHER UNE PARTIE
+2. Utiliser les armes
+Nous utilisons Discord comme forum. Aucune installation n'est nécessaire.\n(cliquez sur le logo pour rejoindre)
+Par défaut, le serveur fonctionnera de manière privée.\nVos amis auront besoin de l'adresse IP pour participer.\nSi vous souhaitez créer un serveur public, sélectionnez LocalAdmin.exe dans le dossier du jeu et suivez les instructions.\nSi vous avez des questions, vous pouvez les poser au support technique (lien dans le MENU)
+1. Les Bases
+Ce jeu est encore en phase bêta.\nVous pourriez donc rencontrer des problèmes tels que des déconnexions ou des bugs de jeu.\nL'état actuel du produit ne reflétera pas le produit final.
+4. (à venir)
+CONNEXION DIRECTE
+SUPPORT TECHNIQUE / FORUM
+VOLUME DES SONS
+Entrez l'adresse IP d'un serveur spécifique.
+CHARGEMENT DES DONNÉES
+AUCUN SERVEUR DISPONIBLE
+APPUIEZ SUR ÉCHAP POUR FERMER / ANNULER
+MODIFIER LES TOUCHES
+SANG
+Limiter les FPS
+Si le vSync est activé, les FPS ne seront pas limités !
+Réinitialiser
+Nous utilisons les discussions Steam comme forum. (Cliquez sur le logo en bas pour ouvrir les forums)
+PARAMÈTRES AUDIO
+VOLUME PRINCIPAL
+MUSIQUE DU MENU
+CHAT VOCALE
+EFFETS SONORES
+OPTIONS DE JEU
+INTRODUCTION RAPIDE
+Accélérer l'introduction
+SCP-079 - MODE D'AFFICHAGE
+Appuyez une fois pour changer les modes de la caméra.
+SCP-079 - POST-TRAITEMENT
+Si désactivé, les effets de la caméra seront fortement réduits.
+BALANCEMENT DE TÊTE
+Activez le balancement de la caméra en première personne lors des mouvements.
+ACTIVER/DÉSACTIVER LA COURSE
+Activez ou désactivez la course avec une touche au lieu de maintenir le bouton enfoncé.
+SÉPARER LA BARRE HP ARTIFICIELLE
+Fournit aux HP sa propre barre de santé, plutôt qu'un superposition.
+Nos traductions sont Open source sur GitHub !\nVous voulez aider ? Cliquez ici pour accéder au dépôt.
+RICH PRESENCE
+Si activé, votre statut sera affiché sur Discord/Steam.
+MONTRER LA VALEUR HP EXACTE
+Affiche la valeur exacte des HP au lieu du pourcentage.
+LOBBY PUBLIQUE
+Si activée, vos amis peuvent rejoindre votre lobby sans demander la permission.
+CACHER L'IP
+Si activé, toute IP affichée dans la console du client ne sera pas visible.
+ACTIVER/DÉSACTIVER LA RECHERCHE
+Ramasser un objet ne nécessitera pas d'appuyer sur une touche ; appuyez à nouveau pour annuler.
+Appliquez des ombres douces aux coins et aux zones étroites pour donner plus de profondeur aux modèles.
+Augmente la profondeur de l'environnement à un coût élevé.
+Fournit un éclairage plus profond en appliquant un éclat en fonction de l'intensité de la lumière.
+Affiche les sous-titres pour les annonces C.A.S.S.I.E.
+Fait clignoter la barre des tâches lorsque vous respawnez pendant que le jeu n'est pas focalisé.
+Lisse les lignes et supprime les distorsions visuelles.
+Synchronise le taux de rafraîchissement en jeu avec la fréquence de mise à jour de l'écran.
+Textures comme des trous de balle ou des éclaboussures de sang.
+Activer/Désactiver le mode sombre
+Activer/Désactiver la vision de certains éléments clairs à leurs variantes sombres. scanner de niveau 4. S'il détecte un être humain caché dans une pièce, il déclenchera une alarme.

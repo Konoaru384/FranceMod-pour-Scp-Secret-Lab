@@ -1,0 +1,19 @@
+VOUS POUVEZ LUI DONNER DES ORDRES
+SUIVEZ SES ORDRES
+MÊME GRADE
+Classe D évadé
+Des scientifiques survivants
+Décès causés par les SCP
+Sujets SCP éliminés
+Ogive Alpha
+A explosé
+Non utilisé
+Le tour suivant commencera dans [temps] secondes.
+CAPACITÉ SPÉCIALE
+CRÉER UN TROU NOIR
+UTILISER LE TROU NOIR
+VOUS ÊTES MORT
+Vous avez été tué par
+Quoi
+Passif
+(caché)

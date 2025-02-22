@@ -1,0 +1,17 @@
+Munitions {0}/{1} {2}
+Endommager
+Cadence de tir
+Précision du tir libre
+Précision de visée
+Poids
+Amplitude
+GOUTTE:
+Efficacité du casque
+Efficacité du blindage
+Bruant utilisé
+Vitesse de déplacement
+Limite d’objets :
+Limite de munitions :
+{0} globale
+Pénétration du blindage
+Précision

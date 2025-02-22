@@ -1,0 +1,22 @@
+Caramelle  
+<color=#FF0000>🍬 C</color><color=#FF7F00>a</color><color=#FFFF00>r</color><color=#00FF00>a</color><color=#0000FF>m</color><color=#4B0082>e</color><color=#9400D3>l</color><color=#FF7F00>l</color><color=#00FF00>a</color> <color=#4B0082>R</color><color=#0000FF>a</color><color=#00FF00>i</color><color=#FFFF00>n</color><color=#FF7F00>o</color><color=#00FF00>w 🍬</color>  
+C'est un morceau dur de sucre d'orge, emballé avec tous les types de saveurs.  
+Résistance Permanente <color=#00FF00>+5%</color>\n <color=#00FF00>+15hp</color> et Temporairement <color=#00FF00>+20 AHP</color>  
+<color=#FFFF00>🍬 Caramelle Jaune 🍬</color>  
+L'odeur écrasante du citron te fait frissonner un peu.  
+<color=#00FF00>+25</color> Endurance \n <color=#00FF00>+10%</color> Vitesse et Revitalisation pendant <color=#DC143C>8s</color>  
+<color=#360082>🍬 Caramelle Violette 🍬</color>  
+Elle a un parfum de raisin juteux. Ça te met l'eau à la bouche.  
+<color=#00FF00>+20%</color> résistance aux dégâts pendant <color=#DC143C>20s</color> \n <color=#00FF00>+15hp</color> en <color=#DC143C>10s</color>  
+<color=#DC143C>🍬 Caramelle Rouge 🍬</color>  
+Un fort parfum de cerise emplit la pièce. C'est un peu... <i>trop</i> fort.  
+<color=#00FF00>+45hp</color> en <color=#DC143C>5s</color>  
+<color=#00FF00>🍬 Caramelle Verte 🍬</color>  
+Une mauvaise odeur d'herbes émane de la caramelle.  
+<color=#00FF00>+1.5hp</color> pendant <color=#DC143C>80s</color> \n État vitalité pendant <color=#DC143C>30s</color>  
+<color=#0000FF>🍬 Caramelle Bleue 🍬</color>  
+Elle a une odeur douce et moelleuse, quelque chose de semblable à un marshmallow.  
+<color=#00FF00>+30AHP</color>, Ne se dégrade pas.  
+<color=#FFC0CB>🍬 Caramelle Rose 🍬</color>  
+Le parfum de fraise est doux comme il en a l'air.  
+- R E D A C T E D -

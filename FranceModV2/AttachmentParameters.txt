@@ -1,0 +1,21 @@
+Grossissement ADS
+---
+Endommager
+Pénétration
+Cadence de tir
+Recul
+Recul en mode ADS
+Précision des balles
+Précision sans hanche
+Précision de visée
+Temps d’équipage
+Bruit de coup de feu
+Capacité du chargeur
+Temps d’extraction
+Temps de charge
+---
+Vitesse de visée
+Dispersion des tirs
+Densité de la chevrotine
+Nombre de balles
+Vitesse de charge

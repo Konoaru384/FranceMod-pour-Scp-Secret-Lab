@@ -1,0 +1,39 @@
+Tirer
+Viser
+Salta
+Utiliser / Interagir
+Inventaire
+Recharger
+Courir
+Chat vocal
+Marcher furtivement
+Entrez
+Derrière
+Gauche
+Droite
+Liste des utilisateurs
+Informations sur le rôle
+Administrateur à distance
+Torche
+Radio
+Sans clip
+Consoles de jeux
+Raccourci clavier de la carte magnétique
+Inspecte
+Charger la gâchette du revolver
+Jeter l’objet
+Raccourci clavier de l’arme principale
+Raccourci clavier de l’arme secondaire
+Raccourci clavier de médecine
+Masquer l’interface graphique
+Retirer le brouillard du mode sans clip
+Raccourci clavier de la grenade
+Pause Menu
+Log di Debug
+Mode de vision libre
+Verrouiller une porte
+Déverrouillez toutes les portes
+Blackout
+Isolation
+Signaler l’emplacement
+Scanneur

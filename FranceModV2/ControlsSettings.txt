@@ -1,0 +1,11 @@
+Paramètres de la souris
+Sensibilité
+Sensibilité Mira. Réduction
+Entrée
+Inverser l’axe Y
+Lors de la visée, la sensibilité de la souris est divisée par la valeur de grossissement du zoom de l’objectif. Les cibles apparaîtront toujours bouger de la même quantité à l’écran par rapport au mouvement de la souris. Vous pouvez augmenter ou diminuer l’intensité de la réduction en ajustant ce paramètre.
+Tenir
+Activation
+Visée - Mode d’activation
+Course à pied - Mode d’activation
+Collection d’objets - Mode d’activation

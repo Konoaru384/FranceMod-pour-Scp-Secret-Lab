@@ -1,0 +1,17 @@
+<b>Le round est terminé !</b>
+[ LES SCP ONT GAGNÉ ]
+[ LA FONDATION A GAGNÉ ]
+[ L'INSURRECTION CHAOS A GAGNÉ ]
+[ ÉGALITÉ ]
+Tous les sujets évadés sont dispersés. Les secours ont été perturbés.
+Toutes les menaces ont été neutralisées. Le Site-02 est de nouveau sécurisé.
+La présence de la Fondation a été neutralisée. L'occupation par l'Insurrection Chaos est maintenant en cours.
+Le Site-02 est sous contrôle incertain. Le vainqueur reste indéterminé.
+[<color=#FF8E00>🏃</color>] [summary_d_escaped] <color=#FF8E00>Personnel de Classe-D</color> évadés [<color=#FF8E00>🏃</color>]
+[<color=#FFFF7C>🏃</color>] [summary_s_escaped] <color=#FFFF7C>Scientifiques</color> évadés [<color=#FFFF7C>🏃</color>]
+État de la Warhead Alpha : [<color=red>💥</color>] <color=orange>DÉTONÉE</color> [<color=red>💥</color>] | a tué [summary_warhead_kills] êtres vivants.
+État de la Warhead Alpha : <color=#228B22>NON DÉTONÉE</color>
+Durée de la Mission : [summary_round_minutes]:[summary_round_seconds]
+[summary_scp_terminated] <color=red>SCP</color> terminés
+Le prochain round aura lieu dans [summary_next_round_countdown] secondes.
+Les <color=red>SCP</color> ont tué [summary_scpfrags] êtres humains.

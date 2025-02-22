@@ -1,0 +1,54 @@
+Voici la traduction en français :
+
+Très bas
+Bas
+Moyen
+Élevé
+Très élevé
+Ultra
+Activé
+Désactivé
+Ombres
+Résolution des ombres
+Système d'éclairage de la structure
+Résolution
+Proportions
+Mode d'affichage
+Limite maximale des images par seconde
+Anti-aliasing
+Synchronisation verticale
+Décorations
+Qualité de la texture
+Luminosité
+Paramètres de l'écran
+Qualité et performances
+Gel des ragdolls
+Temps de gel des ragdolls
+Limiteur de FPS
+Effets visuels
+Mouvement de la tête
+Secousse de l'écran lors des explosions
+Mode sombre pour les grenades aveuglantes
+Tout
+Autre
+Demi fréquence de rafraîchissement
+Taux de rafraîchissement 1/3
+Taux de rafraîchissement 1/4
+Les proportions sélectionnées ne sont pas prises en charge par votre moniteur
+Plein écran exclusif
+Fenêtre sans bord - Garder visible
+Fenêtre sans bord - Masquer lorsqu'elle n'est pas au premier plan
+En fenêtre
+Paramètre de qualité SMAA
+Ombre ambiante
+Qualité du flou
+Désactiver la physique pour les ragdolls (corps morts) après un certain temps pour réduire l'utilisation du CPU.
+L'aspect proportionnel de votre résolution actuelle n'est pas pris en charge !\nCertains éléments de l'interface peuvent ne pas s'afficher correctement.
+Trous de balle
+Effets de sang
+Écran de référence
+• Plein écran exclusif : Le jeu a le contrôle total de l'écran.\n• Fenêtre sans bord : Crée un effet plein écran en étirant la fenêtre pour couvrir tout l'écran. Différentes options contrôlent si la fenêtre du jeu doit rester visible ou se réduire automatiquement lorsqu'elle perd le focus (par exemple, lorsque l'utilisateur sélectionne une autre fenêtre).
+API graphique
+Change les bibliothèques 3D utilisées par le jeu.\nCette option est en phase expérimentale et nous recommandons donc de les laisser réglées sur Auto, à moins que vous ne cherchiez à résoudre un changement spécifique de rendu ou des problèmes de performance avec un matériel peu pris en charge.
+Les changements prendront effet après le redémarrage du jeu.
+Non disponible car l'API graphique a été forcée via les paramètres de lancement.

@@ -1,0 +1,9 @@
+Here is the translation of the provided text into French:
+
+**Sprint :** Augmente ta vitesse de mouvement, au détriment du bruit de tes pas.  
+**Furtif :** Ton mouvement sera silencieux, au prix de ta vitesse.  
+**Inventaire :** Ouvre ton inventaire, sélectionne un objet, avec le bouton gauche pour le prendre en main, avec le bouton droit pour le laisser tomber au sol.  
+**Désarmé :** Tu n'as rien. Trouve quelque chose. N'importe quoi.  
+**Carte magnétique :** Tu as une carte magnétique, ce n'est pas la meilleure mais ne la perds pas.  
+**Équipement standard :** Tu es équipé d'une arme à feu, d'une carte magnétique et de nombreux objets utiles.  
+**Armé et dangereux :** On t'a remis une arme lourde, une carte d'accès et une trousse de premiers secours.

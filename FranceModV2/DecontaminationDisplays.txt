@@ -1,0 +1,7 @@
+<b>LE PROCESSUS DE DÉCONTAMINATION COMMENCERA EN</b>
+<COLOR=#f0ec05> ⚠️ VEUILLEZ QUITTER LA ZONE ⚠️</color>
+<color=#ff0303> ⚠️ VEUILLEZ ÉVACUER ⚠️</color>
+<b>Analyse continue des menaces</b>
+<b>PRÉPARATION AU SYSTÈME DE SÉCURITÉ</b>
+<b>Systèmes prêts à l’emploi</b>
+<b>Début de la procédure P-B-3</b>

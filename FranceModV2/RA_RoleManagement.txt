@@ -1,0 +1,25 @@
+Aucun rôle
+<color=#DC143C>「SCP-173」</color>
+<color=#FF8E00>「Personnel de Classe-D」</color>
+「Spetateur」
+<color=#DC143C>「SCP-106」</color>
+<color=#70C3FF>「Specialiste NTF」</color>
+<color=#DC143C>「SCP-049」</color> 
+<color=#FFFF7C>「Scientifique」</color>
+<color=#DC143C>「SCP-079」</color>
+<color=#007519>「Chaos Insurgency Conscrit」</color>
+<color=#DC143C>「SCP-096」</color>
+<color=#DC143C>「SCP-049-2」</color>
+<color=#0096FF>「Sergent NTF」</color>
+<color=#003DCA>「Capitaine NTF」</color>
+<color=#70C3FF>「Soldat NTF」</color>
+<color=#ff00b0>「Tutoriel」</color>
+<color=#5B6370>「Guarda du Site」</color>
+<color=#DC143C>「SCP-939」</color>
+Ruolo Personalizzato
+<color=#008F1C>「Chaos Insurgency Fucilier」</color>
+<color=#0D7D35>「Chaos Insurgency Represseur」</color>
+<color=#006826>「Chaos Insurgency Maraudeur」</color>
+「Overwatch」
+<color=#363636>「Specialiste」</color>
+<color=#DC143C>「SCP-3114」</color>

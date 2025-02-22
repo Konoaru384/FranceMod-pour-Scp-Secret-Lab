@@ -1,0 +1,27 @@
+[<color=#0096FF><b>⚚</b></color>] <color=#70C3FF> Unité NTF Epsilon-11</color> <b>|</b> <color=#0049F1>[désignation]</color> <b>|</b>
+En attente de recapturer : <color=#DC143C><b>[count] SCP</b></color>.
+[<color=orange><b>⚠</b></color>] En attente de recapturer : <color=#DC143C><b>1 SCP</b></color>.
+<color=#FFFF00>Une menace substantielle à la sécurité persiste à l'intérieur de la structure</color> -- <color=#F00><b>faites attention</b></color>.
+terminé <b>|</b> Cause de terminaison : <color=#4228A1><b>Cause anormale</b></color>.
+terminé par : <color=#DC143C><b>SCP-[scp]</b></color>.
+terminé par : <color=#00A6FF><b>Systèmes de Sécurité Automatiques</b></color>.
+terminé par : <color=#F00><b>Tête nucléaire Alpha</b></color>.
+recapturé par : <color=#FFFF7C><b>Personnel Scientifique</b></color>.
+recapturé par : <color=#FF8E00><b>Personnel de Classe-D</b></color>.
+recapturé par : <color=#007519><b>Insurrection du Chaos</b></color>.
+[<b>ⅰ</b>] <color=#DC143C><b>SCP-[scp]</b></color>
+contenu <b>|</b> <color=#D2D4C1><b>Unité de confinement inconnue</b></color>.
+contenu <b>|</b> <color=#0049F1>Unité de Confinement [désignation]</color>.
+<b>|</b> perdu dans la <b>Séquence de Décontamination</b>.
+[<color=green><b>✔</b></color>] <color=#16DC00>[actuel]</color>/<color=#F00>[max]</color> générateurs activés.
+<split>[<color=yellow>⚠</color>] Tous les générateurs ont été activés avec succès.
+[<b><color=yellow>⚡</color></b>] Surcharge dans <color=#2EFF00>3...</color> <color=#FFF821>2...</color> <color=#F00>1...</color>
+[<b><color=yellow>⚡</color></b>] La structure est redevenue opérationnelle.
+[<color=green><b>ⅰ</b></color>] <color=#FFFF00>Attention</color> - <color=#E9D3FF>Zone de Confinement Léger</color> <color=#7cf58d>décontamination</color> dans <color=green><b>T-15</b> minutes</color>.
+[<color=orange><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Zone de Confinement Léger</color> <color=#7cf58d>décontamination</color> dans <color=yellow><b>T-[time]</b> minutes</color>.
+[<color=#ff4400><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Zone de Confinement Léger</color> <color=#7cf58d>décontamination</color> dans <color=#DC143C><b>T-1</b> minutes</color>.
+[<color=red><b>⚠</b></color>] <color=#DC143C>Danger</color> - <color=#E9D3FF>Zone de Confinement Léger</color> <color=#7cf58d>décontamination</color> dans <color=#DC143C><b>T-30</b> secondes</color>.<split>Toutes les portes des points de contrôle ont été ouvertes de manière permanente.<split><color=red>Veuillez évacuer immédiatement.</color>
+[<color=green><b>ⅰ</b></color>] <color=#E9D3FF>Zone de Confinement Léger</color> est <color=#F00><b>Bloquée</b></color> et prête pour la décontamination.<split>L'élimination des substances organiques a déjà commencé.
+[<color=red><b>⚠</b></color>] SÉQUENCE DE DÉTONATION DE LA TÊTE NUCLÉAIRE ALPHA ACTIVÉE</color> <b>|</b> <color=#F5650A>DÉTONATION DANS <color=#DC143C><b>[time] SECONDES</b></color>.
+[<color=green><b>ⅰ</b></color>] DÉTONATION ANNULÉE.<split>SYSTÈMES EN REDÉMARRAGE...
+[<color=orange><b>ⅰ</b></color>] SÉQUENCE DE DÉTONATION REPRISE <b>|</b> TEMPS :<color=#DC143C><b> T-[time]</b></color> SECONDES.

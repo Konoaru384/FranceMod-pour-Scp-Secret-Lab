@@ -1,0 +1,4 @@
+<size=350><color=#FF0000>☢️</color></size>n<size=70> STATUT : <color=#FF0000>DESACTIVE</color></size>
+<size=350><color=#FFFF00>☢️</color></size>n<size=70> STATUT : <color=#FFFF00>VEUILLEZ PATIENTER</color></size>
+<size=350><color=#00FF00>☢️</color></size>n<size=70> STATUS : <color=#00FF00>PRET</color></size>
+DÉTONATION INÉVITABLE

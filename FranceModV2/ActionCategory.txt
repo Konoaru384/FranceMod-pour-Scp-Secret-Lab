@@ -1,0 +1,8 @@
+Jeu
+Armes
+Mouvements
+Raccourcis clavier
+Communications
+Système
+Non connectable
+SCP-079

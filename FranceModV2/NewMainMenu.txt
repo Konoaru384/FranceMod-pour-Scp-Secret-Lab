@@ -1,0 +1,94 @@
+<color=#f2ff61> ★ | </color> Nouvelles  
+<color=#53f502> ▶️ | </color> Liste des Serveurs  
+<color=#969595> ☀️ | </color> Paramètres  
+<color=red> ✖️ | </color> Quitter  
+Réseaux Sociaux  
+<color=#005485> ✳️ | </color> Internet  
+<color=#f2ff61> ★ | </color> Favoris  
+<color=red> ✔️ | </color> Officiels  
+<color=orange> ➡️ | </color> Historique  
+<color=#4d02b0> ❤️ | </color> Amis  
+Rechercher un Serveur  
+Créer un Serveur  
+Revenir  
+Connexion Directe  
+Recharger  
+Masquer les Parties Vides  
+Masquer les Parties Pleines  
+Sans Whitelist  
+Vidéo  
+Audio  
+Contrôles  
+Gameplay  
+Autre  
+Type d'Écran  
+Plein Écran Exclusif  
+Fenêtre Sans Bordures  
+Fenêtre Agrandie  
+En Fenêtre  
+Synchronisation Verticale  
+Limite FPS  
+Désactivé  
+Qualité des Textures  
+Quantité Maximale de Sang  
+Ombres  
+Résolution des Ombres  
+Distance des Ombres  
+Flou  
+Correction des Couleurs  
+Anti-aliasing  
+Mode de Rendu de la Lumière  
+Volume Principal  
+Effets Sonores  
+Chat Vocal  
+Musique du Menu  
+Volume de l'Interface  
+Thème du Menu  
+Introduction Rapide  
+Oscillation de la Vue  
+<color=yellow>Activation</color> de la Course  
+Afficher la Valeur des HP  
+Activités  
+Salle Publique  
+<color=yellow>Activation</color> de la Collecte  
+<color=red>SCP-079</color> - <color=yellow>Activation</color> du Mode d'Affichage  
+<color=red>SCP-079</color> - Post-Processing  
+<color=#ffffff>L</color><color=#ffdbdb>i</color><color=#ffb6b6>n</color><color=#ff9292>g</color><color=#ff6d6d>u</color><color=#ff4949>a</color>  
+Menu Principal  
+Connecter  
+Retour  
+Cette modification nécessitera un redémarrage.\nRedémarrer maintenant le menu ?  
+<color=green>Oui</color>  
+<color=red>Non</color>  
+Es-tu sûr de vouloir quitter ?  
+Résolution de l'Écran  
+Masquer l'IP  
+Bienvenue {username} !  
+©️ | Crédits  
+<b>État de la connexion : <color=yellow>Connexion...</color></b>  
+<b>État de la connexion : <color=yellow>Connexion...</color></b>  
+<b>État de la connexion : <color=green>OK !</color></b>  
+<b>État de la connexion : <color=red>ERREUR !</color><size=10%><color=yellow>vérifiez la console pour plus de détails</color></b></size>  
+<b>État de la connexion : <color=red>ERREUR D'AUTHENTIFICATION STEAM !<size=10%><color=yellow>vérifiez la console pour plus de détails</color></b></size>  
+<b>État de la connexion : <color=red>ERREUR D'AUTHENTIFICATION DISCORD !<size=10%><color=yellow>vérifiez la console pour plus de détails</color></b></size>  
+Désactivé  
+Secondes  
+Temps de Nettoyage des Cadavres  
+Afficher le Profil Steam  
+Permettre aux joueurs de voir votre profil Steam depuis la liste des joueurs  
+Ne pas suivre (DNT)  
+Interdire aux serveurs d'utiliser vos données (Adresse IP, ID Utilisateur, etc.) pour toute raison qui ne concerne pas la sécurité du serveur lui-même.  
+API Graphique  
+Créer un serveur de jeu à l'intérieur de celui-ci n'est plus supporté.\nIl y a trois façons de créer un serveur dans SCP : SL.\n-Vous pouvez télécharger le serveur dédié de SCP : SL (Steam AppID : 996560) et le lancer depuis celui-ci.\n-Vous pouvez louer un VPS ou un Serveur Dédicacé auprès d'un fournisseur d'hébergement et le démarrer depuis celui-ci.\n-Vous pouvez louer un SCP : SL auprès d'un fournisseur d'hébergement en jeu qui supporte SCP : SL (ex : ZAP Hosting).\n\nCliquez sur le lien ci-dessous pour plus d'informations.\nVous pouvez contacter le support technique pour assistance (le lien du serveur Discord se trouve dans le menu principal du jeu).  
+<size=20>CRÉER ÉGALEMENT</size>  
+<size=20>PLUS D'INFORMATIONS</size>  
+<size=20>LOUER UN SERVEUR</size>  
+<size=20>ANNULER</size>  
+Second  
+Pour jouer à notre jeu !  
+<color=orange>Fais Clignoter la</color> Barre des Applications <color=orange>lorsque tu</color> Régénères  
+<color=#ff5959>O</color><color=#f0555e>c</color><color=#e15163>c</color><color=#d34d68>l</color><color=#c4496d>u</color><color=#b54572>s</color><color=#a64177>i</color><color=#ae5484>o</color><color=#b66590>n</color><color=#bd749b>e</color> <color=#893a82>A</color><color=#7a3687>m</color><color=#6b328c>b</color><color=#5c2e91>i</color><color=#4d2a96>e</color><color=#3e269b>n</color><color=#3022a0>t</color><color=#211ea5>a</color><color=#121aaa>l</color><color=#2930b2>e</color>  
+<color=#ffffff>L</color><color=#f0f1fa>u</color><color=#e1e2f4>c</color><color=#d3d4ef>i</color> <color=#5c62c5>V</color><color=#4d53bf>o</color><color=#3e45ba>l</color><color=#3037b5>u</color><color=#2128af>m</color><color=#121aaa>e</color><color=#2930b2>t</color><color=#3e44b9>r</color><color=#5156c0>i</color><color=#6266c6>c</color><color=#7175cb>h</color><color=#7f82d0>e</color>  
+<color=#ffaf75>Rétroéclairage</color>  
+<color=yellow>Afficher</color> les Sous-titres  
+<color=blue> ✪ | </color> Guide Opérationnel

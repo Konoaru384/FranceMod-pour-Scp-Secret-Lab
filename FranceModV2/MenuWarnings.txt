@@ -1,0 +1,4 @@
+REMARQUER
+D’ACCORD
+Une carte graphique <b>Intel Graphics</b> a été détectée sur votre ordinateur, cette carte vidéo <b>n’est pas prise en charge</b>.nIl <b>est recommandé</B> d’utiliser une carte vidéo <b>non intégrée</b>.nLe jeu <b>peut être instable</b> avec cette configuration matérielle.
+Impossible de trouver une mise à jour importante du système requise par le chat vocal. Assurez-vous que Windows est à jour, sinon le jeu risque de ne pas fonctionner correctement. Si le problème persiste, veuillez contacter notre équipe d’assistance technique pour obtenir de l’aide

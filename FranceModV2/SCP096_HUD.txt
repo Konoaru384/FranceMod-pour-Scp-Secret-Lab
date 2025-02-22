@@ -1,0 +1,8 @@
+<color=#ab0000>SCP-096</color> commence en mode « docile », mais peut se mettre en colère lorsque quelqu’un voit ou endommage son visage. La Colère renforce ses capacités, qui aident <color=#ab0000>SCP-096</color> à suivre le transgresseur avant que la fureur ne s’apaise, redevenant « docile ».
+Colère antisociale : il est difficile de passer à autre chose... Mais s’appuyer sur quelque chose aide à se calmer, à se cacher... ou en attendant que quelqu’un passe.
+Attaque de mêlée : Percez n’importe quoi et atteignez ceux qui vous ont blessé. Vos attaques détruiront les portes et blesseront les humains.
+Charge : Coupez leurs joints courts. Foncez vers votre objectif, démolissez tout ce qui se trouve sur votre chemin.
+Une rage unique
+Seulement docile
+Appuyez et maintenez la touche <color=#d6c502>[key]</color> pour activer la compétence.
+Appuyez et maintenez la touche <color=#d6c502>[key]</color> pour forcer l’arrêt de la capacité.

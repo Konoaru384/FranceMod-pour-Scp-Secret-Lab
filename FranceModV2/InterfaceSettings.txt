@@ -1,0 +1,15 @@
+Comment afficher l’adresse IP du serveur
+Langue de l’interface
+Les modifications ne prendront pas effet immédiatement à certains endroits.nIl est recommandé de redémarrer complètement le jeu.
+Télécharger...
+Sous-titres
+Mode barre de santé
+Nombre exact de HP
+Pourcentage
+Animation d’introduction du rôle
+Normal
+Rapide
+Vérifiez la durée de l’animation en plein écran qui contient le nom de votre nouveau rôle.
+Caché
+Permet de masquer l’adresse IP du serveur sur les éléments de l’interface.
+Flasher la barre des tâches lors de la réapparition

@@ -1,0 +1,8 @@
+TEMPS DE RECHARGE POUR ATTAQUER  
+Inutilisable dans la Zone de Surface.  
+Inutilisable lors de l'utilisation d'un ascenseur.  
+Une force imparable capable de contourner facilement n'importe quelle porte de la structure.  
+Capture : Piège un être humain à proximité, l'enfermant dans la dimension de poche - une prison mortelle dictée par votre règle. La joie de capturer de nouvelles proies remplit Vigor.  
+Poursuite : Plonge dans le sol. Déplace-toi rapidement et invisiblement, régénère-toi et prépare-toi à frapper ta proie. Utilise Vigor, qui se régénère lentement pendant que Stalk est inactif.  
+Atlas du chasseur : Déplace-toi immédiatement vers une chambre voisine ou vers votre chambre, à un grand coût de Vigor. Ce mouvement est instinctif pour vous, ayant erré dans les couloirs du Site tout le temps que vous avez.  
+Agonie Bienheureuse : Pendant que tu poursuis, tu ne peux voir que des humains blessés. Plus leur agonie est grande, plus la distance à laquelle tu peux les marquer est grande. Les fugitifs de la dimension de poche sont traumatisés, les rendant visibles de n'importe où.

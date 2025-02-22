@@ -1,0 +1,17 @@
+<color=#8080FF>⚡ <b>ÉNERGIE AUXILIAIRE</b></color>
+<color=#8080FF>📖 <b>EXPÉRIENCE</b></color>
+CHAMBRE : <color=red>◉CAMÉRA ALLUMÉE</color>
+APPUIEZ SUR [KEY] POUR AFFICHER LA CARTE DE LA STRUCTURE
+Expérience acquise :
+Travail coopératif
+Assistance pour l'élimination d'un <color=#FF8E00><b>Personnel de Classe-D</b></color>💀
+Assistance pour l'élimination d'un <color=#008F1E><b>Chaos Insurgency</b></color>💀
+Assistance pour l'élimination d'un <color=#0096FF><b>MTF</b></color>💀
+Assistance pour l'élimination d'un <color=#FFFF7CFF>Scientifique</b></color>💀
+Assistance pour l'élimination d'un <color=#F00><b>SCP</b></color>💀
+PORTES BLOQUÉES : [LOCKED_NUM]<size=25>UTILISEZ LE BOUTON DROIT POUR DÉBLOQUER TOUTES LES PORTES</size>
+Interactions générales
+<color=#F00>Vous êtes attaqué !</color>
+<color=#F00>Les générateurs ont été mis en évidence sur la carte !</color>
+<color=yellow>⚠</color>
+<color=#F00>SCP</color>{0}<color=#0096FF>MTF</color> & <color=#727472>Garde de la Structure</color>{1}<color=#FFFF7CFF>Scientifique</color>{2}<color=#FF8E00>Personnel de Classe-D</color>{3}<color=#008F1E>Chaos Insurgency</color>{4}

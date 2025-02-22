@@ -1,0 +1,7 @@
+Signaler un joueur
+Objectif :\nID du joueur :nDescription :
+Annuler
+Signaler une violation du règlement
+Signaler les raids ou la triche
+SIGNALISATION
+Veuillez patienter...

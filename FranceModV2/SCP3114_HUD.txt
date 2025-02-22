@@ -1,0 +1,16 @@
+Maintenant, tu es camouflé en tant que [role_name].  
+Il est impossible d'attaquer tant que tu es camouflé. Maintiens [key] enfoncé pour retirer ton camouflage actuel.  
+Les objets tenus comme SCP-3114 ne peuvent pas être utilisés.  
+Appuie sur [key] pour communiquer avec les humains pendant que tu es camouflé.  
+Ce cadavre a déjà été utilisé pour un camouflage.  
+Tu es déjà camouflé. Maintiens [key] enfoncé pour retirer ton camouflage actuel.  
+Seuls les cadavres humains peuvent être utilisés comme camouflage.  
+Ce tas d'os méconnaissable est probablement ce qu'il reste de <b>[role_name]</b>.  
+Tu peux utiliser ce cadavre pour te camoufler en tant que [role_name].  
+Camouflage  
+Refroidissement de strangulation  
+Des squelettes dans le placard : Ton nom et ton identité sont cachés. Tu es comme une toile blanche et le monde est ta muse. Pendant que tu es camouflé en humain, ta force de base te permet de tenir certains objets, mais le manque de muscles évidents t'empêche d'utiliser efficacement les objets.  
+Prends ces mains : Déchaîne une rafale d'attaques légères qui retirent lentement la santé à quiconque que tu touches. Ces couches microscopiques de peau riche en calcium te confèrent agilité et renforcent ta détermination, restaurant une petite quantité de Bouclier Hume à chaque coup.  
+Strangulation : Saisissez-les par le cou et étouffe la vie hors d'eux. Regarde-les dans les yeux pendant qu'ils tirent leurs derniers souffles. Leurs vies ne sont que des bougies à éteindre, nécessitant seulement quelques secondes. Cette attaque peut être interrompue.  
+Sous la peau : Dérobe-toi une belle veste chaude (leur peau) en interagissant avec leur cadavre. Embrasse temporairement la chaleur et porte leur 'costume de chair', imitant la capacité de tenir certains objets. Maintiens [key] enfoncé pour l'enlever brusquement !  
+Appuie et maintiens [key] enfoncé plus longtemps pour retirer ton camouflage actuel.

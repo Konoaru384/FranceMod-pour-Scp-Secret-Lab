@@ -1,0 +1,41 @@
+Raccourcis
+Créer un nouveau raccourci
+Les raccourcis permettent d'assigner des objets aux touches du clavier, afin de pouvoir les équiper sans avoir à ouvrir l'inventaire.
+Carte magnétique
+Arme principale
+Arme secondaire
+Médicament
+Grenade
+Nom
+Touche assignée
+Apparence
+Mode de file d'attente
+Priorité de sélection de l'objet
+Permet de définir le point de départ des éléments dans la file d'attente en fonction des conditions définies par l'utilisateur.
+Caché
+Icône normale
+Icône redimensionnée
+File d'attente des objets
+La sélection est basée sur l'ordre des éléments dans le pool "Objets" sous-jacent.
+Ordre de l'inventaire
+La sélection est basée sur leur ordre dans l'inventaire.
+Rien
+Meilleur objet médical
+Tente d'équiper le meilleur objet médical en fonction de la santé, de la résistance ou des effets d'état.
+Se souvenir des précédents
+Le point de départ de la séquence ne se réinitialise pas lorsque l'on sélectionne un autre objet.
+Détection d'accès aux portes
+Priorise les cartes clés qui peuvent accéder aux portes à proximité.
+Sauter les armes à feu vides
+Prioriser les armes à feu chargées par rapport à celles vides.
+Objets
+Indice de correspondance
+Cette option permet de définir un ordre en fonction de leur position dans l'inventaire. Les objets dans l'inventaire qui ne correspondent pas au filtre sélectionné ci-dessus seront ignorés dans la détermination de l'ordre.
+Supprimer tous les raccourcis personnalisés
+Réinitialiser les paramètres par défaut (maintenez enfoncé)
+Modifier : [raccourci]
+Nouveau raccourci sans nom
+Toute arme
+Toute carte magnétique
+Tout objet lançable
+Tout objet SCP

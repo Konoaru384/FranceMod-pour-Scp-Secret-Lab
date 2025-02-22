@@ -1,0 +1,16 @@
+Personnalisé 📝  
+Préréglage 📝 <color=#8c9600>#[index]</color>  
+<color=#0c7d00>ENREGISTRER ✔</color>  
+<color=#b50202>ANNULER LES ACCESSOIRES</color>  
+Par défaut  
+<color=#0e02b5>📝 PRÉRÉGLAGES 📝</color>  
+STATION DE TRAVAIL - <color=#c00>HORS LIGNE</color>  
+<color=#ccc>POINT DE PERSONNALISATION DES ARMES À FEU DU SITE-02</color> - MODE VEILLE ACTIVÉ\n<size=39>TOUCHEZ L'ÉCRAN POUR L'ACTIVER. <color=#7d7300>SEULEMENT POUR LE PERSONNEL AUTORISÉ.</color></size>  
+<size=40>BIENVENUE <color=#ccc>POINT DE PERSONNALISATION DES ARMES À FEU DU SITE-02</color></size>  
+<size=60>LA STATION DE TRAVAIL \n<color=#8c9600>SE DÉMARRE...</color></size>  
+STATION DE TRAVAIL - <color=#0c7d00>PRÊTE</color>  
+<size=52><color=#ccc>POINT DE PERSONNALISATION DES ARMES À FEU DU SITE-02</color> - <color=#0c7d00>PRÊTE</color></size>\n<size=42><color=#fc6900>VEUILLEZ ÉQUIPER VOTRE ARME POUR MODIFIER SES ACCESSOIRES.</color></size>  
+<color=#c00>EXTINCTION...</color>  
+LA STATION DE TRAVAIL SE <color=#fc6900>COUCHE</color>  
+<color=#0c7d00>MONTRER LE RÉCAPITULATIF</color>  
+<color=#c00>FERMER LE RÉCAPITULATIF</color>

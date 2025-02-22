@@ -1,0 +1,35 @@
+C'est le corps de <color=#ff80bc><b>[user]</b></color> - Classe : [class] !\n Cause de la Mort : [cause]
+Recontenu.
+Vaporisé par la tête nucléaire Alpha.\n Causé par : <color=#f5650a>Évacuation tardive.</color>
+Arrêt soudain des signes de vie. Aucun traumatisme clair.\n Causé par : <color=#e52121>SCP-049</color>
+Cause de la mort incertaine.\n Causé par : <color=#f5650a>Inconnu</color>
+Brûlures électriques graves.
+Le manque d'oxygène a causé la mort par asphyxie.
+Perte de sang importante causée par des blessures profondes.
+Vous vous êtes vidé de votre sang.
+Jambes et pieds brisés suggèrent un traumatisme fatal causé par une chute.
+Vous êtes tombé au sol.
+Détérioré dans la Dimension Poche.\n Causé par : <color=#f5650a>Passer trop de temps dans la Dimension Poche.</color>
+Fusionné par une substance hautement corrosive.\n Causé par : Évacuation manquée de la <color=#e52121>L.C.Z.</color>
+La peau jaunâtre et l'odeur rance suggèrent une mort par empoisonnement.\n Causé par : <color=#F5650A>Ingestion de poison.</color>
+Le poison vous a tué.\n Causé par : mélange de <color=#e52121>SCP-207</color> avec <color=#e52121>SCP-1853</color>
+Peau pâle et sang s'échappant de la bouche suggèrent un saignement interne causé par une substance ingérée. \n Causé par : <color=#e52121>SCP-207</color>
+<color=#e52121>SCP-207</color> vous a tué.
+Vous n'auriez pas dû en prendre plus de deux !\n Causé par : <color=#e52121>SCP-330</color>
+Vous avez été tué par un Tesla Gate.
+Éclats et brûlures graves causés par une explosion.\n Causé par : <color=#5180f7>Grenade à Haut Potentiel Explosif</color>/<color=#ff80bc>Amusant</color>
+Vous avez été tué par une explosion à proximité.\n Causé par : <color=#5180f7>Grenade à Haut Potentiel Explosif</color>/<color=#ff80bc>Amusant</color>
+Lacérations massives et perte de sang excessive.\n Causé par : <color=#e52121>SCP-096</color>
+Fracture cervicale à la base du crâne.\n Causé par : <color=#e52121>SCP-173</color>
+De grandes et profondes marques de morsure peuvent être observées sur le corps.\n Causé par : <color=#e52121>SCP-939</color>
+Traumatisme contondant et petites égratignures présentes sur le corps.\n Causé par : <color=#e52121>SCP-049-2</color>
+Blessures par balle [type de munitions].
+Traumatisme contondant fatal ; le corps est gravement mutilé et pulvérisé.\n Causé par : <color=#e52121>Inconnu</color>
+Des signes de traumatisme grave sur les deux os du fémur suggèrent une mort par choc circulatoire.
+Vous avez été sacrifié pour contenir SCP-106.
+Tué automatiquement par tir ami.
+La peau froide et les doigts gelés suggèrent une mort par hypothermie.\n Causé par : <color=#E52121>SCP-244</color> hypothermie induite.
+Vous vous êtes gelé à mort.\n Causé par : Passer trop de temps dans le brouillard de <color=#E52121>SCP-244</color>.
+De profondes lacérations et égratignures sont présentes sur le corps.\n Causé par : <color=#e52121>SCP-939</color>
+L'Homme Marshmallow vous a tué !\n Causé par : <color=#70C3FF>Homme Marshmallow</color>
+Tué par un tuyau métallique tombé.

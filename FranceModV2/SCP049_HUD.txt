@@ -1,0 +1,23 @@
+Cette âme n'est plus avec nous.  
+Ce cadavre a expiré.  
+Cette âme a été réanimée trop de fois.  
+Cette âme ne veut plus être réanimée.  
+Ce cadavre ne peut pas être réanimé.  
+Ce cadavre a déjà été consommé.  
+Seuls les cadavres humains peuvent être consommés.  
+TEMPS DE RECHARGE POUR L'ATTAQUE  
+Vous avez nié une réanimation supplémentaire par <color=red>SCP-049</color> !  
+Appuyez sur <color=yellow>[key]</color> pour refuser d'autres réanimations.  
+Aucun objectif trouvé.  
+Vous avez déjà toute la vie.  
+Ce cadavre est déjà consommé.  
+Lent et fragile, <color=red>SCP-049</color> est spécialisé dans les embuscades, il est capable d'inverser rapidement le cours de la partie en créant des hordes de personnel "guéri".  
+Rapides et dangereuses, les instances de <color=red>SCP-049-2</color> se précipitent devant leur maître pour semer la panique et le chaos, créant de nouveaux corps pour rejoindre l'équipe.  
+Arrêt cardiaque : Il tend la main gantée pour toucher les cœurs de ceux qui souffrent de la Peste, provoquant un échec rapide de leur fonctionnement corporel ; donnant la possibilité d'injecter votre soin.  
+Le bon sens du Docteur : Concentrez-vous sur une âme contaminée. Vous vous déplacez plus vite, déterminé à les libérer de la Peste. Vous êtes capable de mesurer la distance de la victime en utilisant l'odeur dégoûtante de la maladie.  
+L'appel du Docteur : Signalez votre position au personnel soigné. Tant qu'ils sont près de vous, leurs corps se durcissent pour tolérer plus de dégâts. Un grand docteur surveille toujours ses patients, après tout.  
+Économiser est le meilleur gain : Vos instincts médicaux ne manquent pas d'efficacité ; vous pouvez faire revivre le soin encore et encore pour fournir plus d'informations. Il n'est pas courant que les morts ressuscitent deux fois.  
+Soif de sang : Votre esprit a été arraché de force, vous laissant uniquement avec la violence. Vous vous retrouvez à poursuivre les humains de plus en plus vite, tandis que vous les suivez...  
+Voracité : Le soin n'est pas totalement dépourvu de bénéfices. Vous pouvez régénérer votre chair en utilisant la masse de n'importe quel cadavre à proximité. Il n'y a pas de partage cependant, alors assurez-vous d'être le premier à la fête.  
+Ressusciter  
+Maintenez enfoncé <color=yellow>[key]</color>

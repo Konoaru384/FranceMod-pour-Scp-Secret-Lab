@@ -1,0 +1,10 @@
+<color=green><size=35>OUVERT</size></color>
+<color=#07A2FF><size=30>FERME</size></color>
+<color=orange><size=50>┃⇆┃</size><size=30>MOVING</size></color>
+<color=red><size=50>-❌-</size></color>
+<size=40><color=yellow> ⚠</color></size>
+<size=40><color=#f00505> ❌</color></size>
+<sizz=40><color=green> ✅</color></size>
+<size=40><color=#07A2FF> 💳</color></size>
+<color=orange>CONTINUER</color>
+<color=orange>FERMETURE</color>

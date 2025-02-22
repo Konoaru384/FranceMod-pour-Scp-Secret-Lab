@@ -1,0 +1,4 @@
+<color=#00c213>Source de lumière</color>
+<color=#00c213>Compteur de balles</color>
+<color=#00c213>Suppression de Flash</color>
+<color=#00c213>Vision nocturne</color>
