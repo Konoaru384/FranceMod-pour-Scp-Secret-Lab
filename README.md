@@ -4,6 +4,7 @@ FranceMod est un ficher de translation francais qui permet d'avoir un meilleur g
 #  Comment instaler ?!
 
 Telecharger le ficher .zip et decompreser le dans votre ficher de translation sur sl qui ce situe dans : \SteamLibrary\steamapps\common\SCP Secret Laboratory\Translations
+Pour instaler : https://github.com/Konoaru384/FranceMod-pour-Scp-Secret-Lab/releases/tag/Beta
 
 #  Comment l'activer ??? 
 
