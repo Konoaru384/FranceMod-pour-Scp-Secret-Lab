@@ -19,7 +19,6 @@ Voici qulques screen de a quoi ca resemble en jeu pour vous convaincre...
 ![image](https://github.com/user-attachments/assets/f9757517-c847-4f2b-bc6b-f38388b14bad)
 ![image](https://github.com/user-attachments/assets/5b6e1e6e-fdc6-48c3-904d-1a6da48ba6bb)
 ![bandicam-2025-02-22-15-13-26-801](https://github.com/user-attachments/assets/dce01e4f-7503-4f47-9f73-f5eaddfd26a0)
-![bandicam-2025-02-22-15-13-26-801](https://github.com/user-attachments/assets/58248077-464b-4533-858b-b9e272aee5e6)
 
 Et encore bien + de feature !!!
 
