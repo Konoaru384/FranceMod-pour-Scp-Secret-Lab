@@ -17,6 +17,7 @@ Voici qulques screen de a quoi ca resemble en jeu !!!
 ![image](https://github.com/user-attachments/assets/dd56b59b-3eb2-4121-81aa-4fb53017d3de)
 ![image](https://github.com/user-attachments/assets/f9757517-c847-4f2b-bc6b-f38388b14bad)
 ![image](https://github.com/user-attachments/assets/5b6e1e6e-fdc6-48c3-904d-1a6da48ba6bb)
-https://cdn.discordapp.com/attachments/1234173408460148789/1342884619330125954/jgURze9.mp4?ex=67bb4242&is=67b9f0c2&hm=a765bcba54d7b5814548020972c6b924925933302c284a2dfe4c8cd80414ceea&
-https://cdn.discordapp.com/attachments/1234173408460148789/1342884649529245726/Wat3otS.mp4?ex=67bb424a&is=67b9f0ca&hm=d72d8e442c5d482455f4463afe40582ec3e3ef1e502dba75275278fdd73bd569&
+![bandicam-2025-02-22-15-13-26-801](https://github.com/user-attachments/assets/dce01e4f-7503-4f47-9f73-f5eaddfd26a0)
+![bandicam-2025-02-22-15-13-26-801](https://github.com/user-attachments/assets/2d087d21-7dac-439c-9e92-fb6c09c8eb22)
+
 **NDT : FranceMod est en beta et inspirée de italian mod apr PaRroT InDuStRies en cas de bug vous pouvez me mp sur discord : realkonoaru**
